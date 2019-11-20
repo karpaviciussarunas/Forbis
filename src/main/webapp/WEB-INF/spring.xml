@@ -11,7 +11,7 @@
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
  
-    <context:component-scan base-package="lt.fotoas.projectforbis" />
+    <context:component-scan base-package="lt.fotoas.forbis" />
  
     <bean
     class="org.springframework.web.servlet.view.InternalResourceViewResolver">
